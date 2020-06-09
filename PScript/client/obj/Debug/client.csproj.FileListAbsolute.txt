@@ -1,0 +1,10 @@
+D:\aalphaas\PScript\client\bin\Debug\client.exe.config
+D:\aalphaas\PScript\client\bin\Debug\client.exe
+D:\aalphaas\PScript\client\bin\Debug\client.pdb
+D:\aalphaas\PScript\client\obj\Debug\client.exe
+D:\aalphaas\PScript\client\obj\Debug\client.pdb
+D:\aalphaas\PScript\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\aalphaas\offensivec#\PScript\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\aalphaas\offensivec#\PScript\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\aalphaas\offensivec#\PScript\client\obj\Debug\client.exe
+D:\aalphaas\offensivec#\PScript\client\obj\Debug\client.pdb

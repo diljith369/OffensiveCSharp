@@ -1,0 +1,9 @@
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\obj\Debug\buildit.Form1.resources
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\obj\Debug\buildit.Properties.Resources.resources
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\obj\Debug\buildit.csproj.GenerateResource.cache
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\obj\Debug\buildit.csproj.CoreCompileInputs.cache
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\bin\Debug\buildit.exe.config
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\bin\Debug\buildit.exe
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\bin\Debug\buildit.pdb
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\obj\Debug\buildit.exe
+D:\aalphaas\offensivec#\InstallUtilTest\buildit\obj\Debug\buildit.pdb

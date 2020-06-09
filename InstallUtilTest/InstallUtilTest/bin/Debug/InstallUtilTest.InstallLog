@@ -1,0 +1,8 @@
+﻿Uninstalling assembly 'D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\InstallUtilTest.exe'.
+Affected parameters are:
+   logtoconsole = false
+   logfile = D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\InstallUtilTest.InstallLog
+   assemblypath = D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\InstallUtilTest.exe
+An exception occurred during the uninstallation of the InstallUtilTest.RevShellInsaller installer.
+System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.

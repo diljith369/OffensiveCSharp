@@ -1,0 +1,12 @@
+D:\aalphaas\SharpServer\SharpServer\SharpServer\bin\Debug\SharpServer.exe.config
+D:\aalphaas\SharpServer\SharpServer\SharpServer\bin\Debug\SharpServer.exe
+D:\aalphaas\SharpServer\SharpServer\SharpServer\bin\Debug\SharpServer.pdb
+D:\aalphaas\SharpServer\SharpServer\SharpServer\obj\Debug\SharpServer.exe
+D:\aalphaas\SharpServer\SharpServer\SharpServer\obj\Debug\SharpServer.pdb
+D:\aalphaas\offensivec#\SharpServer\SharpServer\SharpServer\bin\Debug\SharpServer.exe.config
+D:\aalphaas\offensivec#\SharpServer\SharpServer\SharpServer\bin\Debug\SharpServer.exe
+D:\aalphaas\offensivec#\SharpServer\SharpServer\SharpServer\bin\Debug\SharpServer.pdb
+D:\aalphaas\offensivec#\SharpServer\SharpServer\SharpServer\obj\Debug\SharpServer.csprojAssemblyReference.cache
+D:\aalphaas\offensivec#\SharpServer\SharpServer\SharpServer\obj\Debug\SharpServer.csproj.CoreCompileInputs.cache
+D:\aalphaas\offensivec#\SharpServer\SharpServer\SharpServer\obj\Debug\SharpServer.exe
+D:\aalphaas\offensivec#\SharpServer\SharpServer\SharpServer\obj\Debug\SharpServer.pdb

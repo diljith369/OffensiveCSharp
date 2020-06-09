@@ -1,0 +1,12 @@
+D:\aalphaas\PScript\PScript\bin\Debug\PScript.exe.config
+D:\aalphaas\PScript\PScript\bin\Debug\PScript.exe
+D:\aalphaas\PScript\PScript\bin\Debug\PScript.pdb
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.Properties.Resources.resources
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.csproj.GenerateResource.cache
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.exe
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.pdb
+D:\aalphaas\PScript\PScript\bin\Debug\System.Management.Automation.dll
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.csproj.CopyComplete
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.PSForm.resources
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.Sharp_PS.resources
+D:\aalphaas\PScript\PScript\obj\Debug\PScript.csprojAssemblyReference.cache

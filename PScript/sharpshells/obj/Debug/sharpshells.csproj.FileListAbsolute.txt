@@ -1,0 +1,5 @@
+D:\aalphaas\PScript\sharpshells\bin\Debug\sharpshells.exe.config
+D:\aalphaas\PScript\sharpshells\bin\Debug\sharpshells.exe
+D:\aalphaas\PScript\sharpshells\bin\Debug\sharpshells.pdb
+D:\aalphaas\PScript\sharpshells\obj\Debug\sharpshells.exe
+D:\aalphaas\PScript\sharpshells\obj\Debug\sharpshells.pdb

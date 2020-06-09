@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WorkflowCompilerResults xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" z:Type="System.Workflow.ComponentModel.Compiler.WorkflowCompilerResults" z:Assembly="System.Workflow.ComponentModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/System.Workflow.ComponentModel.Compiler">
+  <compiledAssembly xmlns:d2p1="http://schemas.datacontract.org/2004/07/System.Reflection" z:Id="2" xmlns:d2p2="http://schemas.datacontract.org/2004/07/System" z:FactoryType="d2p2:UnitySerializationHolder" z:Type="System.UnitySerializationHolder" z:Assembly="0" xmlns="http://schemas.datacontract.org/2004/07/System.CodeDom.Compiler">
+    <Data z:Id="3" z:Type="System.String" z:Assembly="0" xmlns="">tmpF453.tmp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</Data>
+    <UnityType z:Id="4" z:Type="System.Int32" z:Assembly="0" xmlns="">6</UnityType>
+    <AssemblyName z:Ref="3" i:nil="true" xmlns="" />
+  </compiledAssembly>
+  <errors xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="5" xmlns="http://schemas.datacontract.org/2004/07/System.CodeDom.Compiler">
+    <d2p1:list z:Id="6">
+      <d2p1:_items z:Id="7" z:Size="0" />
+      <d2p1:_size>0</d2p1:_size>
+      <d2p1:_version>1</d2p1:_version>
+    </d2p1:list>
+  </errors>
+  <evidence xmlns:d2p1="http://schemas.datacontract.org/2004/07/System.Security.Policy" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/System.CodeDom.Compiler" />
+  <nativeCompilerReturnValue xmlns="http://schemas.datacontract.org/2004/07/System.CodeDom.Compiler">0</nativeCompilerReturnValue>
+  <output xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="8" xmlns="http://schemas.datacontract.org/2004/07/System.CodeDom.Compiler">
+    <d2p1:data z:Id="9">
+      <d2p1:_items z:Ref="7" i:nil="true" />
+      <d2p1:_size>0</d2p1:_size>
+      <d2p1:_version>0</d2p1:_version>
+    </d2p1:data>
+  </output>
+  <pathToAssembly i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/System.CodeDom.Compiler" />
+  <tempFiles z:Id="10" xmlns="http://schemas.datacontract.org/2004/07/System.CodeDom.Compiler">
+    <basePath z:Id="11">C:\Users\User\AppData\Local\Temp\km4le12c</basePath>
+    <files xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="12" z:Type="System.Collections.Hashtable" z:Assembly="0">
+      <LoadFactor z:Id="13" z:Type="System.Single" z:Assembly="0" xmlns="">0.72</LoadFactor>
+      <Version z:Id="14" z:Type="System.Int32" z:Assembly="0" xmlns="">14</Version>
+      <KeyComparer z:Id="15" z:Type="System.OrdinalComparer" z:Assembly="0" xmlns="">
+        <_ignoreCase xmlns="http://schemas.datacontract.org/2004/07/System">true</_ignoreCase>
+      </KeyComparer>
+      <HashSize z:Id="16" z:Type="System.Int32" z:Assembly="0" xmlns="">17</HashSize>
+      <Keys z:Id="17" z:Type="System.Object[]" z:Assembly="0" z:Size="0" xmlns="" />
+      <Values z:Id="18" z:Type="System.Object[]" z:Assembly="0" z:Size="0" xmlns="" />
+    </files>
+    <keepFiles>false</keepFiles>
+    <tempDir i:nil="true" />
+  </tempFiles>
+  <compiledCCU xmlns:d2p1="http://schemas.datacontract.org/2004/07/System.CodeDom" z:Id="19">
+    <d2p1:userData xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    <d2p1:assemblies xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="20">
+      <d3p1:data z:Id="21">
+        <d3p1:_items z:Ref="7" i:nil="true" />
+        <d3p1:_size>0</d3p1:_size>
+        <d3p1:_version>0</d3p1:_version>
+      </d3p1:data>
+    </d2p1:assemblies>
+    <d2p1:attributes xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="22">
+      <d3p1:list z:Id="23">
+        <d3p1:_items z:Ref="7" i:nil="true" />
+        <d3p1:_size>0</d3p1:_size>
+        <d3p1:_version>0</d3p1:_version>
+      </d3p1:list>
+    </d2p1:attributes>
+    <d2p1:endDirectives xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="24">
+      <d3p1:list z:Id="25">
+        <d3p1:_items z:Ref="7" i:nil="true" />
+        <d3p1:_size>0</d3p1:_size>
+        <d3p1:_version>0</d3p1:_version>
+      </d3p1:list>
+    </d2p1:endDirectives>
+    <d2p1:namespaces xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="26">
+      <d3p1:list z:Id="27">
+        <d3p1:_items z:Ref="7" i:nil="true" />
+        <d3p1:_size>0</d3p1:_size>
+        <d3p1:_version>0</d3p1:_version>
+      </d3p1:list>
+    </d2p1:namespaces>
+    <d2p1:startDirectives xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="28">
+      <d3p1:list z:Id="29">
+        <d3p1:_items z:Ref="7" i:nil="true" />
+        <d3p1:_size>0</d3p1:_size>
+        <d3p1:_version>0</d3p1:_version>
+      </d3p1:list>
+    </d2p1:startDirectives>
+  </compiledCCU>
+</WorkflowCompilerResults>

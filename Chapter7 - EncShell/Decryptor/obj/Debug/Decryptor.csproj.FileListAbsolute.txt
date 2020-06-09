@@ -1,0 +1,19 @@
+D:\ThickClients\Decryptor\bin\Debug\Decryptor.exe.config
+D:\ThickClients\Decryptor\bin\Debug\Decryptor.exe
+D:\ThickClients\Decryptor\bin\Debug\Decryptor.pdb
+D:\ThickClients\Decryptor\obj\Debug\Decryptor.csprojAssemblyReference.cache
+D:\ThickClients\Decryptor\obj\Debug\Decryptor.AESDecryptForm.resources
+D:\ThickClients\Decryptor\obj\Debug\Decryptor.Properties.Resources.resources
+D:\ThickClients\Decryptor\obj\Debug\Decryptor.csproj.GenerateResource.cache
+D:\ThickClients\Decryptor\obj\Debug\Decryptor.csproj.CoreCompileInputs.cache
+D:\ThickClients\Decryptor\obj\Debug\Decryptor.exe
+D:\ThickClients\Decryptor\obj\Debug\Decryptor.pdb
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\bin\Debug\Decryptor.exe.config
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\bin\Debug\Decryptor.exe
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\bin\Debug\Decryptor.pdb
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\obj\Debug\Decryptor.AESDecryptForm.resources
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\obj\Debug\Decryptor.Properties.Resources.resources
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\obj\Debug\Decryptor.csproj.GenerateResource.cache
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\obj\Debug\Decryptor.csproj.CoreCompileInputs.cache
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\obj\Debug\Decryptor.exe
+D:\aalphaas\offensivec#\Chapter7 - EncShell\Decryptor\obj\Debug\Decryptor.pdb

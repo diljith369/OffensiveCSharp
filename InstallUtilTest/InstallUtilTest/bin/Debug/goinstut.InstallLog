@@ -1,0 +1,5 @@
+﻿Uninstalling assembly 'D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\goinstut.exe'.
+Affected parameters are:
+   logtoconsole = false
+   logfile = D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\goinstut.InstallLog
+   assemblypath = D:\aalphaas\offensivec#\InstallUtilTest\InstallUtilTest\bin\Debug\goinstut.exe

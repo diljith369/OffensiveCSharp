@@ -1,0 +1,10 @@
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\bin\Debug\ShellCodeEncryptor.exe.config
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\bin\Debug\ShellCodeEncryptor.exe
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\bin\Debug\ShellCodeEncryptor.pdb
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\obj\Debug\ExecShellCode.csprojAssemblyReference.cache
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\obj\Debug\ShellCodeEncryptor.ExecShellForm.resources
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\obj\Debug\ShellCodeEncryptor.Properties.Resources.resources
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\obj\Debug\ExecShellCode.csproj.GenerateResource.cache
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\obj\Debug\ExecShellCode.csproj.CoreCompileInputs.cache
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\obj\Debug\ShellCodeEncryptor.exe
+D:\aalphaas\offensivec#\Chapter7 - EncShell\ShellCodeEncryptor\obj\Debug\ShellCodeEncryptor.pdb

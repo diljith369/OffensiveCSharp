@@ -1,0 +1,6 @@
+D:\aalphaas\offensivec#\XsltTest\XsltTest\bin\Debug\XsltTest.exe.config
+D:\aalphaas\offensivec#\XsltTest\XsltTest\bin\Debug\XsltTest.exe
+D:\aalphaas\offensivec#\XsltTest\XsltTest\bin\Debug\XsltTest.pdb
+D:\aalphaas\offensivec#\XsltTest\XsltTest\obj\Debug\XsltTest.csproj.CoreCompileInputs.cache
+D:\aalphaas\offensivec#\XsltTest\XsltTest\obj\Debug\XsltTest.exe
+D:\aalphaas\offensivec#\XsltTest\XsltTest\obj\Debug\XsltTest.pdb

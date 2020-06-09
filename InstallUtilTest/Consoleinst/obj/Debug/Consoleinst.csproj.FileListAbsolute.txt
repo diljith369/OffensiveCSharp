@@ -1,0 +1,6 @@
+D:\aalphaas\offensivec#\InstallUtilTest\Consoleinst\bin\Debug\Consoleinst.exe.config
+D:\aalphaas\offensivec#\InstallUtilTest\Consoleinst\bin\Debug\Consoleinst.exe
+D:\aalphaas\offensivec#\InstallUtilTest\Consoleinst\bin\Debug\Consoleinst.pdb
+D:\aalphaas\offensivec#\InstallUtilTest\Consoleinst\obj\Debug\Consoleinst.csproj.CoreCompileInputs.cache
+D:\aalphaas\offensivec#\InstallUtilTest\Consoleinst\obj\Debug\Consoleinst.exe
+D:\aalphaas\offensivec#\InstallUtilTest\Consoleinst\obj\Debug\Consoleinst.pdb

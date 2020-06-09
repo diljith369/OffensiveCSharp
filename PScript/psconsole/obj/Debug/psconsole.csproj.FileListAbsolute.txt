@@ -1,0 +1,7 @@
+D:\aalphaas\PScript\psconsole\bin\Debug\psconsole.exe.config
+D:\aalphaas\PScript\psconsole\bin\Debug\psconsole.exe
+D:\aalphaas\PScript\psconsole\bin\Debug\psconsole.pdb
+D:\aalphaas\PScript\psconsole\bin\Debug\System.Management.Automation.dll
+D:\aalphaas\PScript\psconsole\obj\Debug\psconsole.csproj.CopyComplete
+D:\aalphaas\PScript\psconsole\obj\Debug\psconsole.exe
+D:\aalphaas\PScript\psconsole\obj\Debug\psconsole.pdb
